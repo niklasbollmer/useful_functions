@@ -14,4 +14,3 @@ stock IsPlayerInWater(playerid) {
 }
 stock IsPlayerSwimming(playerid)
 	return IsPlayerInWater(playerid);
-	

@@ -1,4 +1,4 @@
 Useful SA:MP functions
 ================
 
-add some functions for San Andreas Multiplayer
+adds some functions for San Andreas Multiplayer
