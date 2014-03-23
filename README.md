@@ -1,4 +1,4 @@
-useful_functions
+Useful SA:MP functions
 ================
 
-useful functions for samp
+some useful functions for San Andreas Multiplayer
